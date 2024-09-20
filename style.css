@@ -1,0 +1,49 @@
+body {
+  background: linear-gradient(rgb(89, 252, 255), rgb(255, 72, 246));
+  background-repeat: no-repeat;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.main-table {
+  color: #ffffff;
+  height: auto;
+  border: 4px dashed #000;
+  width: 100%;
+  padding: 20px;
+}
+
+.topinput,
+.india-input {
+  width: 700px;
+  padding: 7px;
+}
+tr {
+  margin: 20px 0;
+  margin-left: 20px;
+}
+
+td {
+  padding: 10px;
+}
+
+textarea {
+  width: 720px;
+  height: 300px;
+}
+
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.row-inp {
+  width: 300px;
+}
+.fd {
+  display: flex;
+  flex-wrap: wrap;
+}
